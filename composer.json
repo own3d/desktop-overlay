@@ -1,0 +1,20 @@
+{
+  "name": "own3d/desktop-overlay",
+  "autoload": {
+    "psr-4": {
+      "Own3d\\DesktopOverlay\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "René Preuß",
+      "email": "rene.p@own3d.tv"
+    }
+  ],
+  "scripts": {
+    "docs": "@php bin/docs.php"
+  },
+  "require": {
+    "ext-json": "*"
+  }
+}
