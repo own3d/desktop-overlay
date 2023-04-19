@@ -25,6 +25,6 @@ Once installed, launch the OWN3D Desktop Overlay app and log in using your Twitc
 
 ## Frequently Asked Questions
 
-Q: Is the Desktop Overlay app detected by anti-cheat software, or can I be banned for it?
+### Q: Is the Desktop Overlay app detected by anti-cheat software, or can I be banned for it?
 
 A: It's unlikely that the Desktop Overlay app will be detected by anti-cheat software since it does not interact with the game's code or memory and does not provide any advantage to the player in the game. As long as the app is used in a legitimate way and does not violate the game's terms of service or anti-cheat policies, it should not result in a ban. However, it's important to keep in mind that anti-cheat software can be unpredictable and may flag legitimate programs, so using the app at your own risk is always recommended. Running the game in windowed mode while using the Desktop Overlay app may reduce the risk of detection by anti-cheat software.
